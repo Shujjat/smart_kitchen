@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "LightHouse",
+  "description": "This will link up your LIghtHouse installation.",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "extension.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}

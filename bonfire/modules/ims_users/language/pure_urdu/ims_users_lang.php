@@ -1,0 +1,31 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+$lang['ims_users_manage']			= 'Manage IMS Users';
+$lang['ims_users_edit']				= 'Edit';
+$lang['ims_users_true']				= 'True';
+$lang['ims_users_false']				= 'False';
+$lang['ims_users_create']			= 'Create';
+$lang['ims_users_list']				= 'List';
+$lang['ims_users_new']				= 'New';
+$lang['ims_users_edit_text']			= 'Edit this to suit your needs';
+$lang['ims_users_no_records']			= 'There aren\'t any ims_users in the system.';
+$lang['ims_users_create_new']			= 'Create a new IMS Users.';
+$lang['ims_users_create_success']			= 'IMS Users successfully created.';
+$lang['ims_users_create_failure']			= 'There was a problem creating the ims_users: ';
+$lang['ims_users_create_new_button']			= 'Create New IMS Users';
+$lang['ims_users_invalid_id']			= 'Invalid IMS Users ID.';
+$lang['ims_users_edit_success']			= 'IMS Users successfully saved.';
+$lang['ims_users_edit_failure']			= 'There was a problem saving the ims_users: ';
+$lang['ims_users_delete_success']			= 'record(s) successfully deleted.';
+$lang['ims_users_delete_failure']			= 'We could not delete the record: ';
+$lang['ims_users_delete_error']			= 'You have not selected any records to delete.';
+$lang['ims_users_actions']			= 'Actions';
+$lang['ims_users_cancel']			= 'Cancel';
+$lang['ims_users_delete_record']			= 'Delete this IMS Users';
+$lang['ims_users_delete_confirm']			= 'Are you sure you want to delete this ims_users?';
+$lang['ims_users_edit_heading']			= 'Edit IMS Users';
+
+// Activities
+$lang['ims_users_act_create_record']			= 'Created record with ID';
+$lang['ims_users_act_edit_record']			= 'Updated record with ID';
+$lang['ims_users_act_delete_record']			= 'Deleted record with ID';
+$lang['select_a_type']			= 'Select a Type';

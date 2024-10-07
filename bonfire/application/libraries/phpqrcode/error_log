@@ -1,0 +1,1 @@
+[31-Aug-2020 08:44:23 UTC] PHP Fatal error:  Call to undefined function ImageCreate() in /home/fjveyyax/public_html/ai/bonfire/application/libraries/phpqrcode/qrimage.php on line 74

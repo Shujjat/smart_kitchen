@@ -1,0 +1,1 @@
+<p>Error Number: 1048</p><p>Column 'unit' cannot be null</p><p>INSERT INTO `dishes_ingredients` (`dish_id`, `ingredient`, `quantity`, `unit`) VALUES ('1', NULL, NULL, NULL)</p><p>Filename: G:\wamp\www\smart_kitchen\bonfire\codeigniter\database\DB_driver.php</p><p>Line Number: 332</p>\n

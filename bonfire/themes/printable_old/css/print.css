@@ -1,0 +1,32 @@
+@page {
+  size: Legal landscape;  /* width height */
+  margin: 1cm 0cm 5cm 2cm;
+}
+body, table{font-size:11px; font-family:tahoma, arial, sans-serif;overflow:hidden;}
+.table td { line-height:1em; padding:2px 4px; }
+.lh10 td {padding: 5px 4px;}
+.ht20 {height:20%;}
+.ht30 {max-height:30%;}
+.ht40 {height:40%;}
+.ht50 {height:50%;}
+.ht60 {height:60%;}
+.ht70 {height:70%;}
+.ht80 {height:80%;}
+.ht100 {height:99%;}
+dv {border:1px solid #ccc;}
+.logo-school, .logo-bank {height:40px;}
+.school-name {font-size:1.3em; font-weight:bold;}
+.bank-name {font-size:1.1em; font-weight:bold;}
+.bank-account {font-weight:bold;}
+.due-date td:nth-child(2){font-weight:bold;}
+.barcode {font-family:Code39AzaleaFont; font-size:2em;}
+.footer {font-family:'Franklin Gothic'; font-size:0.7em;line-height:1.1em;}
+.footer ol {margin:4px 5px; padding-right:10px;}
+.footer li {line-height:1.6em;}
+.bd-r {border-right:1px dashed #000;}
+.divider {padding:2px; margin:0 2px; border-top:1px dotted #ccc; clear:both;}
+.title {font-weight:bold;text-align:center; background:#ddd;}
+.student-name td:nth-child(2) {font-weight:bold;padding-bottom:4px;}
+.student-info {border:1px solid #000; background:#ddf;padding:4px;}
+.row-fluid [class*="span"] {margin-left:0;}
+.column {padding:4px 10px;}
